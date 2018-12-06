@@ -1,6 +1,10 @@
 /sample_code
 /data
 /data5y
+/data10y
 /graph
 /graph5y
 /graph5y_predict
+/graph10y
+/graph10y_predict
+/test_savefile
