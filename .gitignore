@@ -8,3 +8,7 @@
 /graph10y
 /graph10y_predict
 /test_savefile
+/data10y_close_csv
+/data10y_close_pickle
+/data10y_close_pickle_2
+/data10y_predict_pickle
