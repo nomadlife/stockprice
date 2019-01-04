@@ -2,6 +2,7 @@
 /data
 /data5y
 /data10y
+/data10y_2
 /graph
 /graph5y
 /graph5y_predict
@@ -12,3 +13,4 @@
 /data10y_close_pickle
 /data10y_close_pickle_2
 /data10y_predict_pickle
+/data10y_predict_pickle_2
